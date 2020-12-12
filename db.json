@@ -1,0 +1,8 @@
+{
+  "todos": [
+    {"text": "test", "completed":false, "id":1 },
+    {"text": "from", "completed":false, "id":2 },
+    {"text": "db.json", "completed":false, "id":3 }
+  ]
+
+}
